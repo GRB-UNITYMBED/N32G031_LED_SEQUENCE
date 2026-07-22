@@ -1,6 +1,6 @@
 # N32G031_LED_SEQUENCE — Sequential Blink (On-board LEDs)
 
-![Blink](doc/images/Sequential Blink.png)
+![Sequential_Blink](doc/images/Sequential_Blink.png)
 
 An introductory project designed to teach basic GPIO (General Purpose Input/Output) control using the **N32G031** microcontroller[cite: 1, 2]. This project expands on the basic "Hello World" by controlling the on-board LEDs sequentially across pins **PB1, PB3, PB6, and PB7**. It serves as an excellent tool for understanding sequential logic and timing functions without the need for any external wiring. This project is fully optimized for cross-platform workflows using UnityMbed.
 
@@ -8,7 +8,7 @@ An introductory project designed to teach basic GPIO (General Purpose Input/Outp
 
 ## Wiring
 
-✅ **No External Wiring Required**
+**No External Wiring Required**
 
 This project utilizes the LEDs already integrated into the UnityMbed Starter Kit board. You can locate the LED cluster on the board (near the port), which is clearly labeled with pins **PB7, PB6, PB3, and PB1**.
 
