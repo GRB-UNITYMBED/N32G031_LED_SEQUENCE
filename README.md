@@ -16,7 +16,7 @@ This project utilizes the LEDs already integrated into the UnityMbed Starter Kit
 
 ## Behaviour & Execution
 
-Once powered on and flashed with the code, the microcontroller will execute the following loop continuously to create a "chasing" effect[cite: 1, 2]:
+Once powered on and flashed with the code, the microcontroller will execute the following loop continuously to create a "chasing" effect:
 1. Set **PB1** to ON, wait via delay, then set to OFF.
 2. Set **PB3** to ON, wait via delay, then set to OFF.
 3. Set **PB6** to ON, wait via delay, then set to OFF.
